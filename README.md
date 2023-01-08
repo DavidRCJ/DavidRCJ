@@ -7,8 +7,7 @@
 
 - 📝 I regularly write articles on [pagina.git](pagina.git)
 
-- 💬 Ask me about **C, Java, HTML, CSS, SASS, JavaScript, Node JS,
--                    Microcontrollers, Embided Systems**
+- 💬 Ask me about **C, Java, HTML, CSS, SASS, JavaScript, Node JS, Microcontrollers, Embided Systems**
 
 - 📫 How to reach me **davidrcruzjuarez@gmail.com**
 
