@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-ricardo-cruz-ju%c3%a1rez-6b441523a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-ricardo-cruz-ju%c3%a1rez-6b441523a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-ricardo-cruz-ju%C3%A1rez-6b441523a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-ricardo-cruz-ju%c3%a1rez-6b441523a" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/lmldrcjlml?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lmldrcjlml?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/lmldrcjlml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lmldrcjlml" height="30" width="40" /></a>
 </p>
