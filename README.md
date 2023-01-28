@@ -3,12 +3,11 @@
 
 - 🌱 I’m currently learning **Angular, React, IOT, Intelegence Artificial**
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/DavidRCJ?tab=overview&from=2023-01-01&to=2023-01-07](https://github.com/DavidRCJ?tab=overview&from=2023-01-01&to=2023-01-07)
-
 - 💬 Ask me about **C,Java,HTML,CSS,SASS,JavaScript,Node JS, Microcontrollers, Embebided Systems**
 
 - 📫 How to reach me **davidrcruzjuarez@gmail.com**
+
+- 👨‍💻My web site [https://davidrcj.github.io/Perfil-Desarrollador/](https://davidrcj.github.io/Perfil-Desarrollador/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,11 +19,7 @@
             alt="https://www.facebook.com/lmldrcjlml?mibextid=zbwkwl" height="30" width="40" /></a>
     <a href="https://instagram.com/lmldrcjlml" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="lmldrcjlml" height="30" width="40" /></a>
-   <a href="https://davidrcj.github.io/Perfil-Desarrollador/" target="_blank" rel="noreferrer"> <img
-            src="https://www.canva.com/design/DAFY6P9uRsU/0j10CnTeuRzhixrVnCA3rw/view?utm_content=DAFY6P9uRsU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="logo" width="40" height="40" /> </a>
-
-        
+            alt="lmldrcjlml" height="30" width="40" /></a>         
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
