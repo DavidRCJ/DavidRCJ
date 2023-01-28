@@ -22,7 +22,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="lmldrcjlml" height="30" width="40" /></a>
     <a href="https://davidrcj.github.io/Perfil-Desarrollador/" target="blank"><img align="center"
-        src="https://www.canva.com/design/DAFY6P9uRsU/fiR1lJXcS-3gnp8rHmqLLw/view?utm_content=DAFY6P9uRsU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"   alt="lmldrcjlml" height="30" width="40" /></a>
+        src="https://www.canva.com/design/DAFY6P9uRsU/0j10CnTeuRzhixrVnCA3rw/view?utm_content=DAFY6P9uRsU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"   alt="lmldrcjlml" height="30" width="40" /></a>
         
 </p>
 
