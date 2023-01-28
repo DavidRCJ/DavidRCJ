@@ -21,8 +21,9 @@
     <a href="https://instagram.com/lmldrcjlml" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="lmldrcjlml" height="30" width="40" /></a>
-   
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFY6P9uRsU&#x2F;view?utm_content=DAFY6P9uRsU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">DRCJ</a> de David Ricardo Cruz Juárez
+   <a href="https://davidrcj.github.io/Perfil-Desarrollador/" target="_blank" rel="noreferrer"> <img
+            src="https://www.canva.com/design/DAFY6P9uRsU/0j10CnTeuRzhixrVnCA3rw/view?utm_content=DAFY6P9uRsU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="logo" width="40" height="40" /> </a>
+
         
 </p>
 
