@@ -8,7 +8,7 @@
 - 📫 How to reach me **davidrcruzjuarez@gmail.com**
 
 - 👨‍💻My web site [https://davidrcj.github.io/Perfil-Desarrollador/](https://davidrcj.github.io/Perfil-Desarrollador/)
-- 👨‍💻My Coursera profile [https://davidrcj.github.io/Perfil-Desarrollador/](https://www.coursera.org/learner/david-rcj-230897)]
+- 👨‍💻My Coursera profile [https://www.coursera.org/learner/david-rcj-230897](https://www.coursera.org/learner/david-rcj-230897)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
