@@ -9,6 +9,7 @@
 
 - 👨‍💻My web site [https://davidrcj.github.io/Perfil-Desarrollador/](https://davidrcj.github.io/Perfil-Desarrollador/)
 - 👨‍💻My Coursera profile [https://www.coursera.org/learner/david-rcj-230897](https://www.coursera.org/learner/david-rcj-230897)
+- 👨‍💻My Badges Wallet Credly [https://www.credly.com/users/david-ricardo-cruz-juarez.180ae391](https://www.credly.com/users/david-ricardo-cruz-juarez.180ae391)
 - 👨‍💻My Profile Google Skills Boost for Cloud [https://www.cloudskillsboost.google/public_profiles/f18e4836-90d5-4b17-acab-1e57d5b6e6d6?locale=es](https://www.cloudskillsboost.google/public_profiles/f18e4836-90d5-4b17-acab-1e57d5b6e6d6?locale=es)
 
 <h3 align="left">Connect with me:</h3>
