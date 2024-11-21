@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm David Ricardo Cruz Juarez</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Angular, React, IOT, Intelegence Artificial**
+- 🌱 I’m currently learning **Angular, React, IOT, Inteligence Artificial**
 
-- 💬 Ask me about **C,Java,HTML,CSS,SASS,JavaScript,Node JS, Microcontrollers, Embebided Systems**
+- 💬 Ask me about **C,Java,HTML,CSS,SASS,JavaScript,Node JS, Microcontrollers, Embedded Systems**
 
 - 📫 How to reach me **davidrcruzjuarez@gmail.com**
 
 - 👨‍💻My web site [https://davidrcj.github.io/Perfil-Desarrollador/](https://davidrcj.github.io/Perfil-Desarrollador/)
+- 👨‍💻My Coursera profile [https://davidrcj.github.io/Perfil-Desarrollador/](https://www.coursera.org/learner/david-rcj-230897)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
