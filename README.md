@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **davidrcruzjuarez@gmail.com**
 
+- 👨‍💻My web Portfolio [https://davidrcj.github.io/Portfolio-Alura-ONE//](https://davidrcj.github.io/Portfolio-Alura-ONE/) 
 - 👨‍💻My web site [https://davidrcj.github.io/Perfil-Desarrollador/](https://davidrcj.github.io/Perfil-Desarrollador/)
 - 👨‍💻My Coursera profile [https://www.coursera.org/learner/david-rcj-230897](https://www.coursera.org/learner/david-rcj-230897)
 - 👨‍💻My Badges Wallet Credly [https://www.credly.com/users/david-ricardo-cruz-juarez.180ae391](https://www.credly.com/users/david-ricardo-cruz-juarez.180ae391)
