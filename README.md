@@ -88,6 +88,3 @@ Soy un desarrollador apasionado por la inteligencia artificial, los sistemas emb
 
 > “La curiosidad me impulsa, la resiliencia me sostiene, y el código me conecta con el futuro.”
 
----
-
-¿Quieres que te ayude a crear una imagen de portada para este perfil también? Podemos incluir tu nombre, especialidades y un estilo técnico que combine con tu branding.
