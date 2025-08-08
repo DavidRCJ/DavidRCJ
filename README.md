@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Analyst | Embedded Software Developer | Full-Stack Developer | QA Dev Tester </h3>
 
 <p align="center">
-  <img src="assets/david-cover.png" alt="David Ricardo Cruz Juárez - Machine Learning Analyst | Embedded Systems Developer | Full-Stack Explorer" />
+  <img src="/david-cover.png" alt="David Ricardo Cruz Juárez - Machine Learning Analyst | Embedded Systems Developer | Full-Stack Explorer" />
 </p>
 
 
