@@ -43,6 +43,7 @@ Soy un desarrollador apasionado por la inteligencia artificial, los sistemas emb
 
 - 📧 Email: **davidrcjuarez23@gmail.com**
 - 💼 LinkedIn: [David Ricardo Cruz Juárez](https://www.linkedin.com/in/david-ricardo-cruz-ju%C3%A1rez-6b441523a)
+- Presentation: [Perfil All Me](https://davidrcj.github.io/Portfolio-Alura-ONE/)
 - 🌐 Portfolio Web: [Perfil Desarrollador](https://davidrcj.github.io/Perfil-Desarrollador/)
 - 🧠 Coursera: [Mi perfil](https://www.coursera.org/learner/david-rcj-230897)
 - 🏅 Credly Badges: [Wallet de Certificaciones](https://www.credly.com/users/david-ricardo-cruz-juarez.180ae391)
@@ -54,8 +55,8 @@ Soy un desarrollador apasionado por la inteligencia artificial, los sistemas emb
 
 <p align="left">
   <a href="https://github.com/DavidRCJ" target="_blank"><img src="https://img.shields.io/badge/GitHub-DavidRCJ-black?logo=github&style=for-the-badge" /></a>
-  <a href="https://instagram.com/lmldrcjlml" target="_blank"><img src="https://img.shields.io/badge/Instagram-@lmldrcjlml-E4405F?logo=instagram&style=for-the-badge" /></a>
-  <a href="https://www.facebook.com/lmlDRCJlml?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-David-blue?logo=facebook&style=for-the-badge" /></a>
+  <a href =https://www.linkedin.com/in/david-ricardo-cruz-ju%C3%A1rez-6b441523a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Fo3jxVR4QaWw5Zvy5DtOJw%3D%3D><img src="https://img.shields.io/badge/Linkedin-DavidRCJ-black?logo=linkedin&style=for-the-badge" /></a>
+  
 </p>
 
 ---
